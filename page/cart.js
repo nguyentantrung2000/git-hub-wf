@@ -1,1 +1,1 @@
-console.log('this is cart page !!!')
+console.log('this is cart page !!! and i just fix this cart page in hotfix')
